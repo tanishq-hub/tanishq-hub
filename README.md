@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanishq
+- 👋 Hi, I’m @tanishq-hub
 - 👀 I’m interested in learning new languages and designing websites
 - 🌱 I’m currently learning python language and java 
 - 💞️ I’m looking to collaborate on 
